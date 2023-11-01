@@ -6,7 +6,11 @@ const Topbar = () => {
     <div className="topbar">
       <div className="topbarWrapper">
         <div className="topLeft">
-          <span className="logo">Sandeep</span>
+          <img
+            src="https://github.com/sandeep8854/e-commerce/blob/main/public/image/sandeepE.jpg?raw=true"
+            alt=""
+            className="logo"
+          ></img>
         </div>
         <div className="topright">
           <div className="topbarIconContainer">

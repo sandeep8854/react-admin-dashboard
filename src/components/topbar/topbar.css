@@ -15,10 +15,10 @@
   justify-content: space-between;
 }
 .logo {
-  font-weight: bold;
-  font-size: 30px;
-  color: darkblue;
-  cursor: pointer;
+  width: 100%;
+  max-width: 172px;
+  height: auto;
+  margin-top: 8px;
 }
 .topright {
   display: flex;

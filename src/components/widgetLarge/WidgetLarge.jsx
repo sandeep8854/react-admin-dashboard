@@ -32,14 +32,14 @@ const WidgetLarge = () => {
         <tr className="widgetLargeTr">
           <td className="widgetLargeUser">
             <img
-              src="https://images.pexels.com/photos/1458332/pexels-photo-1458332.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+              src="https://images.pexels.com/photos/1028927/pexels-photo-1028927.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
               alt=""
               className="widgetLargeImg"
             />
-            <span className="widgetLargeName">Aashika Nautel</span>
+            <span className="widgetLargeName">Kriti Kharbanda</span>
           </td>
-          <td className="widgetLargeDate">31 Oct 2023</td>
-          <td className="widgetLargeAmount">₹ 8456</td>
+          <td className="widgetLargeDate">01 Oct 2023</td>
+          <td className="widgetLargeAmount">₹ 7856</td>
           <td className="widgetLargeStatus">
             <Button type="Pending" />
           </td>
@@ -47,14 +47,14 @@ const WidgetLarge = () => {
         <tr className="widgetLargeTr">
           <td className="widgetLargeUser">
             <img
-              src="https://images.pexels.com/photos/1458332/pexels-photo-1458332.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+              src="https://images.pexels.com/photos/4045548/pexels-photo-4045548.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
               alt=""
               className="widgetLargeImg"
             />
-            <span className="widgetLargeName">Aashika Nautel</span>
+            <span className="widgetLargeName">Nargish Seth</span>
           </td>
-          <td className="widgetLargeDate">31 Oct 2023</td>
-          <td className="widgetLargeAmount">₹ 8456</td>
+          <td className="widgetLargeDate">14 Nov 2023</td>
+          <td className="widgetLargeAmount">₹ 6456</td>
           <td className="widgetLargeStatus">
             <Button type="Declined" />
           </td>
@@ -62,14 +62,14 @@ const WidgetLarge = () => {
         <tr className="widgetLargeTr">
           <td className="widgetLargeUser">
             <img
-              src="https://images.pexels.com/photos/1458332/pexels-photo-1458332.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+              src="https://avatars.githubusercontent.com/u/60762201?v=4"
               alt=""
               className="widgetLargeImg"
             />
-            <span className="widgetLargeName">Aashika Nautel</span>
+            <span className="widgetLargeName">Sandeep Prajapati</span>
           </td>
-          <td className="widgetLargeDate">31 Oct 2023</td>
-          <td className="widgetLargeAmount">₹ 8456</td>
+          <td className="widgetLargeDate">01 Oct 2023</td>
+          <td className="widgetLargeAmount">₹ 10456</td>
           <td className="widgetLargeStatus">
             <Button type="Approved" />
           </td>
