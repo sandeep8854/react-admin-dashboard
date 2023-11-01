@@ -1,3 +1,4 @@
+# For a better experience, please open in big screen
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
