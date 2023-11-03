@@ -24,7 +24,7 @@ const Topbar = () => {
             <Settings />
           </div>
           <img
-            src="https://images.pexels.com/photos/725463/pexels-photo-725463.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            src="https://avatars.githubusercontent.com/u/60762201?v=4"
             alt="Avatar not found"
             className="topAvatar"
           />
